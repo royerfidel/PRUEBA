@@ -1,7 +1,6 @@
 
 <?php  
 
-//hICE UN CAMBIO PARA GIT
 	class persona
 	{
 		//Crear atributos
