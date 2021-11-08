@@ -1,6 +1,6 @@
 
 <?php  
-
+	//Es un comentario por la clonación
 	class persona
 	{
 		//Crear atributos
